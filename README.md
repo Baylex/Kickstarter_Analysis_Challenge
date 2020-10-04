@@ -16,7 +16,7 @@ Due to the client's interest in the theater data, the data was filtered by that 
 Due to the nominal number of live outcomes, the data was again filtered from the data set.  The client's main interest is in the plays subcategory, so an additional filter was applied.  The goals were then binned into groups of $5000.  The total number of successful, failed, and canceled outcomes were calculated for each bin and then converted into percentages.
 ![Graph 2. Percent of Outcomes Based on Goal Ranges](Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-The percentage of canceled projects equaled zeroed, which could have indicated a calculation error.  The formulas were checked and verified for accuracy.  The raw data was filtered to confirm that no canceled plays existed. 
+The percentage of canceled projects had all zeros, which could have indicated a calculation error.  The formulas were checked and verified for accuracy.  The raw data was filtered to confirm that no canceled plays existed. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
