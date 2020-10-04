@@ -19,11 +19,17 @@ Due to the nominal number of live outcomes, the data was again filtered from the
 The percentage of canceled projects had all zeros, which could have indicated a calculation error.  The formulas were checked and verified for accuracy.  The raw data was filtered to confirm that no canceled plays existed. 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Viewing the line graph, the key months to launch a successful theater project are May and June, which declines through the end of the year.  There are also very few canceled theater projects. 
-- What can you conclude about the Outcomes based on Goals?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
+<0l>
+<li> Viewing the line graph, the key months to launch a successful theater project are May and June, which declines through the end of the year.  
+<li> There are also very few canceled theater projects.
+</ol>
+### What can you conclude about the Outcomes based on Goals?
 From the graph, the most successful percentages of outcomes are projects with goals that are less than $5000 goals or between $35000 and $50000. 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 There is limited data on canceled theater projects and there were no examples of canceled plays in the subcategories.  
-- What are some other possible tables and/or graphs that we could create?
-We could create a new calculated field that counts the number of months or days between the launch and deadline dates and cross that with the number of outcomes, and then turn that into a marked line graph.  In both analyses, the spotlight and staff pick were not investigated for impact on outcomes. 
+### What are some other possible tables and/or graphs that we could create?
+<ol>
+<li> We could create a new calculated field that counts the number of months or days between the launch and deadline dates and cross that with the number of outcomes, and then turn that into a marked line graph.  
+<li> In both analyses, the spotlight and staff pick were not investigated for impact on outcomes. 
+</ol>
