@@ -1,4 +1,4 @@
-# Kickstarting_Analysis_Challenge
+# Kickstarter_Analysis_Challenge
 UT McCombs Data Boot Camp Module 1: Kickstarting with Excel
 
 ## Overview of Project
