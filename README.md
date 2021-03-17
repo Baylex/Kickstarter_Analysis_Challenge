@@ -1,6 +1,14 @@
-# Kickstarting with Excel
+# Kickstarting_Analysis_Challenge
+UT McCombs Data Boot Camp Module 1: Kickstarting with Excel
 
 ## Overview of Project
+1. Import data into a table for analysis.   
+2. Apply filters, conditional formatting, and formulas.   
+3. Generate and interpret pivot tables.   
+4. Calculate summary statistics such as measures of central tendency, standard deviation, and variance.  
+5. Characterize data to identify outliers in datasets.  
+6. Perform an Excel analysis with visualizations.  
+7. Interpret common Excel visualizations.  
 
 ### Purpose
 As part of a class assignment for the UT Data Boot Camp, an initial analysis of Kickstarter data was conducted to assist a client to determine the timing of her fundraising goal for a play.  After falling short of her fundraising goal, she asked for a follow up analysis. 
