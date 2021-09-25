@@ -1,5 +1,5 @@
 # Kickstarter_Analysis_Challenge
-UT McCombs Data Boot Camp Module 1: Kickstarting with Excel
+Kickstarting with Excel
 
 ## Overview of Project
 1. Import data into a table for analysis.   
